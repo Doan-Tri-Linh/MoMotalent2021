@@ -63,7 +63,7 @@ public class Main {
                             break;
                         case 2:
 
-                            if(tienthua < 0){
+                            if(tienthua < product.getCoke()){
                                 System.out.println("you don't have enough money to buy ");
                             }
                             else{
